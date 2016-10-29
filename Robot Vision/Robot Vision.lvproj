@@ -126,8 +126,10 @@ AddOutputFilter chunkFilter
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 			<Item Name="VisionDriver.vi" Type="VI" URL="../../2016 Robot Project/VisionDriver.vi"/>
 		</Item>
+		<Item Name="horizontal.ctl" Type="VI" URL="../horizontal.ctl"/>
 		<Item Name="Robot Actions.ctl" Type="VI" URL="../../Robot Actions.ctl"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
+		<Item Name="vertical.ctl" Type="VI" URL="../vertical.ctl"/>
 		<Item Name="Vision Test Library.lvlib" Type="Library" URL="../../Vision Test Library.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
