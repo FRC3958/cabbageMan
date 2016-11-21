@@ -130,7 +130,7 @@ AddOutputFilter chunkFilter
 		<Item Name="navX Library v2.lvlib" Type="Library" URL="../../../navX-MXP-LabVIEW/navX Library v2/navX Library v2.lvlib"/>
 		<Item Name="Robot Actions.ctl" Type="VI" URL="../../Robot Actions.ctl"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
-		<Item Name="subVIChecknavX.vi" Type="VI" URL="../../../navX-MXP-LabVIEW/navX Library v2/subVIChecknavX.vi"/>
+		<Item Name="subVIChecknavX.vi" Type="VI" URL="../subVIChecknavX Folder/navX Library v2/subVIChecknavX.vi"/>
 		<Item Name="vertical.ctl" Type="VI" URL="../vertical.ctl"/>
 		<Item Name="Vision Test Library.lvlib" Type="Library" URL="../../Vision Test Library.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
